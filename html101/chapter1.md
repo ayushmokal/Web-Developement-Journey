@@ -105,7 +105,7 @@ Here are some common ones:
 <b> element to bold text.
 <i> element to italicize text.
 <u> element to underline text.
-<s> element to strikethrough text.
+<s> element to strikethrough text.</s>
 This is how they are used:
 
 <b>This text is using bold formatting.</b><br>
